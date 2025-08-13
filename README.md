@@ -54,7 +54,6 @@ The primary goal of this project is to predict house prices based on property fe
 
 ## ⚙️ Hyperparameter Tuning
 Best parameters found via **Grid Search** for Gradient Boosting:
-```python
 {
     'learning_rate': 0.01,
     'max_depth': 3,
